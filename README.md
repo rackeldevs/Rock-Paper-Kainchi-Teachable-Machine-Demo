@@ -4,5 +4,6 @@
 
 # Download model files using git clone 
 **Thank you; hopefully see this tommorow in school**
+*git clone* **for the ml model**
 
 
